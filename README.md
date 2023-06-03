@@ -4,14 +4,14 @@
 
 ### I. Group Information:
 
-- Lớp: 20KHMT2
+- Class: 20KHMT2
 
 #|Name
 -|-
-20127588|Nguyễn Tấn Phát
-20127383|Lê Ngọc Tường
-20127484|Nguyễn Tư Duy
-20127374|Nguyễn Đức Trường
+20127588|Nguyen Tan Phat
+20127383|Le Ngoc Tuong
+20127484|Nguyen Tu Duy
+20127374|Nguyen Duc Truong
 
 ### II. Research:
 1. Understanding TFX Pipelines.
